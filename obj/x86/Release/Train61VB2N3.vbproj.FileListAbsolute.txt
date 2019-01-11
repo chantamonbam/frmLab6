@@ -1,0 +1,11 @@
+D:\VBปี2\Train61VB2N3\Train61VB2N3\bin\Release\Train61VB2N3.exe
+D:\VBปี2\Train61VB2N3\Train61VB2N3\bin\Release\Train61VB2N3.pdb
+D:\VBปี2\Train61VB2N3\Train61VB2N3\bin\Release\Train61VB2N3.xml
+D:\VBปี2\Train61VB2N3\Train61VB2N3\obj\x86\Release\Train61VB2N3.frmFirst.resources
+D:\VBปี2\Train61VB2N3\Train61VB2N3\obj\x86\Release\Train61VB2N3.frmjob4.resources
+D:\VBปี2\Train61VB2N3\Train61VB2N3\obj\x86\Release\Train61VB2N3.frmLab3.resources
+D:\VBปี2\Train61VB2N3\Train61VB2N3\obj\x86\Release\Train61VB2N3.Resources.resources
+D:\VBปี2\Train61VB2N3\Train61VB2N3\obj\x86\Release\Train61VB2N3.vbproj.GenerateResource.Cache
+D:\VBปี2\Train61VB2N3\Train61VB2N3\obj\x86\Release\Train61VB2N3.exe
+D:\VBปี2\Train61VB2N3\Train61VB2N3\obj\x86\Release\Train61VB2N3.xml
+D:\VBปี2\Train61VB2N3\Train61VB2N3\obj\x86\Release\Train61VB2N3.pdb
